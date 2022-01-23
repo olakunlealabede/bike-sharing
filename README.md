@@ -44,6 +44,7 @@ In conclusion, bikesharing is usually very popular in busy metropolitan areas, w
 
 Below are two additional visualizations suggested for future analysis, given the data provided:
 
-trip starting and ending locations during morning and evening rush hour time-windows, to display the flow of traffic between neighborhoods at peak hours;
-average trip duration, by birth year, by gender, to explore if there is any difference in male or female riders as they age.
+Trip starting and ending locations during morning and evening rush hour time-windows, to display the flow of traffic between neighborhoods at peak hours;
+
+Average trip duration, by birth year, by gender, to explore if there is any difference in male or female riders as they age.
 
