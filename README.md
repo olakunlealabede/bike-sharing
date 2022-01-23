@@ -39,5 +39,11 @@ This visualization shows the number of bike trips by gender for each hour of eac
 This visualization shows the number of bike trips broken down by gender for each day of the week by each Usertype.
 <img width="794" alt="tab5" src="https://user-images.githubusercontent.com/89113627/150619692-676331ff-5c92-4aae-9a3d-cbefafa0c388.png">
 
+# Summary
+In conclusion, bikesharing is usually very popular in busy metropolitan areas, where occupied real estate is densely packed and parking spaces are rare to find. The user base is made up mostly of male subscribers which provides moderate income for the program. More effort should be put on publicity to attract female riders though male subscribers seem like a reliable market. Although, main usage seems to be busy around morning and evening commute times.
 
+Below are two additional visualizations suggested for future analysis, given the data provided:
+
+trip starting and ending locations during morning and evening rush hour time-windows, to display the flow of traffic between neighborhoods at peak hours;
+average trip duration, by birth year, by gender, to explore if there is any difference in male or female riders as they age.
 
